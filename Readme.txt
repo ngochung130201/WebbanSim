@@ -1,0 +1,1 @@
+Wibu đứng đầu chuỗi thức ăn
