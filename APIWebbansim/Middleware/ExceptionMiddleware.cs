@@ -1,7 +1,7 @@
 using System.Net;
 using APIWebbansim.Model;
 
-namespace APIWebbansim.Extension.Middleware;
+namespace APIWebbansim.Middleware;
 public class ExceptionMiddleware
 {
     private readonly RequestDelegate _next;

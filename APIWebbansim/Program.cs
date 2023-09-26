@@ -1,5 +1,5 @@
 using APIWebbansim.Config;
-using APIWebbansim.Extension.Middleware;
+using APIWebbansim.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
