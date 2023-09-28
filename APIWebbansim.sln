@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIWebbansim", "APIWebbansim\APIWebbansim.csproj", "{66C7B4B6-E0B6-4BE6-B7BA-C1120EE3E8BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIWebbansimClient", "APIWebbansimClient\APIWebbansimClient.csproj", "{C2692420-A76E-4EFF-8A8C-8EBE86B7F89F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{66C7B4B6-E0B6-4BE6-B7BA-C1120EE3E8BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66C7B4B6-E0B6-4BE6-B7BA-C1120EE3E8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66C7B4B6-E0B6-4BE6-B7BA-C1120EE3E8BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2692420-A76E-4EFF-8A8C-8EBE86B7F89F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2692420-A76E-4EFF-8A8C-8EBE86B7F89F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2692420-A76E-4EFF-8A8C-8EBE86B7F89F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2692420-A76E-4EFF-8A8C-8EBE86B7F89F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
